@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(80, 3, 116);
+    color: aliceblue;
+}
+
+.faixa{
+    background-color:rgb(30, 1, 44) ;
+    color: white;
+    padding: 20px;
+    align-self: center;
+    margin: 0%;
+    margin-left: -7px;
+    margin-right: -8px;
+    margin-top: -9px;
+    
+}
+.saudacao{
+    margin-left: 700px;
+    align-content: center;
+}
+   
+
+.intro{
+    background-color: rgb(80, 3, 116);
+    color: aliceblue;
+    
+}
+
